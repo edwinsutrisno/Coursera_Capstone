@@ -1,0 +1,23 @@
+,name,distance,category1,category2,neighborhood,address,lat,lng,id,rating,ratingSignals
+0,Starbucks,4461,food,coffeeshop_,,1 Utama Shopping Centre,3.1488,101.616,53ace690498ee1246590366b,6.8,121
+1,Starbucks,4323,food,coffeeshop_,,1 Utama Shopping Centre (New Wing),3.15,101.6164,4b61623ef964a520b0112ae3,7.2,622
+2,Starbucks,5193,food,coffeeshop_,,Encorp Strand Mall,3.155,101.5938,533a4b93498ea0140dda4c88,7,93
+3,Starbucks,3814,food,coffeeshop_,,IPC Shopping Centre,3.1569,101.6116,4b0e8c7bf964a520625823e3,6.9,241
+4,Starbucks,3772,food,coffeeshop_,Mutiara Damansara,The Curve,3.1575,101.6113,4b0d1050f964a520894323e3,7.3,538
+5,Starbucks,3587,food,coffeeshop_,,Borders,3.1586,101.6128,4e0c2f906284f2bbda572655,7.1,180
+6,Starbucks,3758,food,coffeeshop_,,"22, Jalan 25/70A Desa Sri Hartamas",3.1624,101.6506,4dd47aa9814dc3d020774257,7,315
+7,Starbucks,4143,food,coffeeshop_,,Hartamas Shopping Centre,3.1641,101.6569,4b29b9b8f964a520e9a224e3,7.2,124
+8,Starbucks,3618,food,coffeeshop_,,Plaza Mont' Kiara,3.1656,101.652,4b790723f964a52060e92ee3,7.4,134
+9,Starbucks,2964,food,coffeeshop_,,Qliq Damansara Hotel,3.1657,101.6118,54f03795498e087eec588f5d,7.7,21
+10,Starbucks,3537,food,coffeeshop_,,Arcoris Mont Kiara,3.1676,101.6527,5a7137a84aa3f85af0bc388d,6.9,3
+11,Starbucks,3826,food,coffeeshop_,,Solaris Mont Kiara,3.1753,101.6599,51ca7e3e498e5923008ca451,7.4,127
+12,Starbucks,841,food,coffeeshop_,,Kepong Village Mall,3.1926,101.6329,53bcab74498e7e4a348ba0f9,7.3,73
+13,Starbucks,3211,food,coffeeshop_,,AEON Metro Prima Shopping Centre,3.2138,101.6388,4b5713d9f964a5207e2528e3,7.1,282
+14,Starbucks Reserve,67,food,coffeeshop_,The Waterfront,"GF-03, The Waterfront",3.1869,101.6282,5a20e400a8eb607c63dfe67a,7.9,21
+15,The Coffee Bean & Tea Leaf,3766,food,coffeeshop_,,The Curve,3.1571,101.6119,4b46fa8df964a520282a26e3,6.8,150
+16,The Coffee Bean & Tea Leaf,4213,food,coffeeshop_,,Hartamas Shopping Centre,3.1632,101.657,4b2a3dbdf964a52069a624e3,6,63
+17,The Coffee Bean & Tea Leaf,3586,food,coffeeshop_,Mont Kiara,"Verandah No.6 & Terrace B, G-Floor, Shoplex Mont' Kiara",3.1671,101.6529,4c1100463ce120a106ee081c,7.3,155
+18,The Coffee Bean & Tea Leaf,3829,food,coffeeshop_,,Solaris Mont' Kiara,3.1752,101.6599,4b1f93d0f964a520112724e3,7.1,91
+19,The Coffee Bean & Tea Leaf,832,food,coffeeshop_,Plaza Arkadia,"A-G-11(Block A), Plaza Arkadia. No,3 Jalan Intisari Perdana, Desa Parkcity 52200 KL",3.1858,101.635,5930087d4acb192f93dd827f,7.7,43
+20,The Coffee Bean & Tea Leaf,58,food,coffeeshop_,"Desa ParkCity, Kuala Lumpur, Kuala Lumpur","Lot No. GF-09, Ground Level",3.1866,101.6278,4b251ac8f964a520516c24e3,6.4,249
+21,The Coffee Bean & Tea Leaf,1734,food,coffeeshop_,,Ativo Plaza,3.1972,101.6157,58097c7cd67c32945bf46a86,6.8,30

@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Machine learning project
+Repository for capstone project in data science.
